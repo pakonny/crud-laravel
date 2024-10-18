@@ -1,6 +1,3 @@
-Berikut adalah **README.md** yang menarik dan sesuai dengan perintah Anda untuk dokumentasi proyek Laravel di GitHub:
-
-```markdown
 <p align="center">
     <a href="https://laravel.com" target="_blank">
         <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
@@ -20,7 +17,6 @@ Berikut adalah **README.md** yang menarik dan sesuai dengan perintah Anda untuk 
    ```bash
    composer install
    npm install
-   ```
 
 2. Copy file `.env.example` dan rename menjadi `.env`:
    ```bash
