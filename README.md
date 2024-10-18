@@ -1,19 +1,19 @@
 
 ## Cara Menjalankan Aplikasi Laravel
 
-1. Jalankan proses build front-end:
-   ```bash
-   npm run dev
-   ```
+1. setelah menjalankan semua perintah clone repo dan migrasinya
+2. jalankan build front end
+   
+  ![npm run dev](https://github.com/user-attachments/assets/ec7c4dcb-c139-4c8e-8085-d9b5a08baf9e)
 
-2. Buka terminal baru dan jalankan perintah untuk memulai server:
-   ```bash
-   php artisan serve
-   ```
+4. Buka terminal baru dan jalankan perintah untuk memulai server:
+   
+  ![php artisan serve](https://github.com/user-attachments/assets/c056c569-a4d2-4488-91c3-d6b6e9d65351)
 
-3. Buka browser dan akses aplikasi pada alamat yang ditampilkan (biasanya `http://127.0.0.1:8000`). 
 
-5. Setelah halaman Laravel default muncul, pilih login jika sudah memiliki akun atau register untuk membuat akun baru.
+5. Buka browser dan akses aplikasi pada alamat yang ditampilkan (biasanya `http://127.0.0.1:8000`). 
+
+6. Setelah halaman Laravel default muncul, pilih login jika sudah memiliki akun atau register untuk membuat akun baru.
    
    ![logreg](https://github.com/user-attachments/assets/8ace8723-7e28-45b5-bc74-3ef2e98fad51)
 
