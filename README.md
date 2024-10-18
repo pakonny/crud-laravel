@@ -1,5 +1,5 @@
 
-Berikut adalah template teks yang kamu minta untuk ditulis di GitHub:
+
 
 ```markdown
 ## Cara Menjalankan Aplikasi Laravel
@@ -75,6 +75,5 @@ Berikut adalah template teks yang kamu minta untuk ditulis di GitHub:
    ```
 ```
 
-Teks ini bisa langsung kamu salin ke file README.md di GitHub atau digunakan sesuai kebutuhanmu.
 
 
