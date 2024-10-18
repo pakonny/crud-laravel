@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://laravel.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://github.com/rafiahmadfairuz/crud-laravel/blob/main/berhasil%20logreg.png" width="400" alt="Laravel Logo">
-    </a>
+ ![create](https://github.com/user-attachments/assets/87ce7672-eddf-4f81-b599-6832db168f82)
 </p>
 
 <p align="center">
