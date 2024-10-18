@@ -1,7 +1,3 @@
-
-
-
-```markdown
 ## Cara Menjalankan Aplikasi Laravel
 
 1. Jalankan perintah berikut untuk menginstall dependencies:
