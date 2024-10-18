@@ -1,6 +1,6 @@
-<p align="center">
+
  ![create](https://github.com/user-attachments/assets/87ce7672-eddf-4f81-b599-6832db168f82)
-</p>
+
 
 <p align="center">
     <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
