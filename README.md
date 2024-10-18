@@ -25,7 +25,7 @@
     
    ![setelah migrate dan loginreg](https://github.com/user-attachments/assets/edd40c84-c5fc-4a34-94bc-fa99ffea2d58)
    
-11. Jika ingin menambah produk, klik tombol "Tambah" di pojok kiri atas. Isi form yang muncul untuk produk baru, lalu klik "Kirim" saat selesai.
+11. Jika ingin menambah produk, klik tombol "Tambah" di pojok Kanan atas. Isi form yang muncul untuk produk baru, lalu klik "Kirim" saat selesai.
     
     ![create](https://github.com/user-attachments/assets/fdbdd06a-c642-4c43-aaf3-507dd3f7330a)
     
@@ -55,7 +55,7 @@
   ![test all](https://github.com/user-attachments/assets/4785ee76-5150-46e5-adf2-4a945abe0e2f)
 
 
-3. Jika hanya ingin menguji fitur CRUD, jalankan perintah:
+2. Jika hanya ingin menguji fitur CRUD, jalankan perintah:
    
    ![produk tes](https://github.com/user-attachments/assets/2ea85f7b-d5ad-4a4a-a299-dbec991f3251)
 
