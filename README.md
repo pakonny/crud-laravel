@@ -20,7 +20,7 @@
 
 2. Copy file `.env.example` dan rename menjadi `.env`:
    ```bash
-   cp .env.example .env
+   .env.example .env
    ```
 
 3. Konfigurasi database di file `.env` dengan menggunakan MySQL, sesuaikan nama database sesuai keinginan.
