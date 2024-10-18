@@ -20,7 +20,7 @@
 
 2. Copy file `.env.example` dan rename menjadi `.env`:
    ```bash
-   .env.example .env
+   .env.example copy paste, Lalu copy tadi Rename Menjadi .env
    ```
 
 3. Konfigurasi database di file `.env` dengan menggunakan MySQL, sesuaikan nama database sesuai keinginan.
@@ -52,7 +52,7 @@
    php artisan serve
    ```
 
-10. Buka browser dan akses aplikasi pada alamat yang ditampilkan (biasanya `http://localhost:8000`).
+10. Buka browser dan akses aplikasi pada alamat yang ditampilkan (biasanya `(http://127.0.0.1:8000)`).
 
 ## Cara Uji Coba CRUD
 
